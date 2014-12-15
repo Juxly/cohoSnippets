@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+//Description: ${1:this}.
+//Usage: ${2: How to use}.
+]]>
+	</content>
+	<tabTrigger>coho_descr</tabTrigger>
+
+</snippet>

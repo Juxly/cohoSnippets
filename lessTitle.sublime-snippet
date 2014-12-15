@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1: File Title}
+ * ---------------------------------------
+ *
+ * Description
+ * ${2: Some Description of what this file is for.}
+ * 
+ * ---------------------------------------
+ *
+ *
+ * CONTENTS
+ * --------------------------------
+ *
+ * ${3:Section}
+ * ${4:Type}...............{5:Notes about what this type does.}.
+ *
+ */
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lessContentsBlock</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.less</scope>
+	<scope>source.css</scope>
+</snippet>
+
+
